@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @TanishqSharma07
 - 👀 I’m interested in Web dev and Machine Learning.
-- 🌱 I’m currently learning DSA and Python.
+- 🌱 I’m currently learning about Transformers and LLMs.
 - 💞️ I am constantly seeking opportunities to expand my knowledge and apply my skills in real-world scenarios.
 
 - 📫 Email me on: tanishqrajasharma+github@gmail.com
