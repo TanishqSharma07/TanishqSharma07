@@ -3,8 +3,8 @@
 - 🌱 I’m currently learning about Transformers and LLMs.
 - 💞️ I am constantly seeking opportunities to expand my knowledge and apply my skills in real-world scenarios.
 
-- 📫 Email me on: tanishqrajasharma+github@gmail.com <br>
-      Linkedin: www.linkedin.com/in/tanishq-sharma-ai
+- 📫 Email me on: tanishqrajasharma+github@gmail.com
+- 🔗 Linkedin: www.linkedin.com/in/tanishq-sharma-ai
 
 - 😄 Pronouns: He/Him
 
