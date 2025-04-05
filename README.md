@@ -3,15 +3,10 @@
 - 🌱 I’m currently learning about Transformers and LLMs.
 - 💞️ I am constantly seeking opportunities to expand my knowledge and apply my skills in real-world scenarios.
 
-- 📫 Email me on: tanishqrajasharma+github@gmail.com
-      Linkedin: https://www.linkedin.com/in/tanishq-sharma-2939a3299/
+- 📫 Email me on: tanishqrajasharma+github@gmail.com <br>
+      Linkedin: www.linkedin.com/in/tanishq-sharma-ai
 
 - 😄 Pronouns: He/Him
-
-- ⚡ Fun fact: The term "bug" in the context of computer programming originated in 1947 when Grace Hopper,
-                an American computer scientist, found an actual moth causing a malfunction in the Harvard Mark II computer.
-                She removed the insect and taped it into the logbook, noting, "First actual case of bug being found."
-                Since then, "bug" has been commonly used to refer to any error or glitch in a computer program.
 
 
 
